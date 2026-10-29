@@ -1,0 +1,7 @@
+,test MAE,test MAE,Natal MAE,Natal MAE
+,acuan,terbaik,acuan,terbaik
+model,,,,
+ANN,8.8 ± 0.7,8.0 ± 0.4,14.4 ± 0.5,11.8 ± 1.5
+RNN,7.5 ± 0.1,7.4 ± 0.1,10.8 ± 0.1,10.7 ± 1.2
+LSTM,8.2 ± 0.2,8.0 ± 0.3,12.8 ± 0.8,12.8 ± 0.2
+GRU,7.5 ± 0.2,7.5 ± 0.2,11.4 ± 0.9,9.7 ± 0.5
